@@ -1,0 +1,94 @@
+{
+    "recipes": [
+      {
+        "recipe_image": "https://example.com/images/chicken_basil.jpg",
+        "recipe_id": "101",
+        "recipe_name": "Chicken Basil Stir-fry",
+        "short_description": "A quick and savory stir-fry with chicken and basil leaves.",
+        "ingredients": [
+          "550 g chicken",
+          "120 ml soy sauce",
+          "200 g basil leaf",
+          "400 g mushroom"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+      },
+      {
+        "recipe_image": "https://example.com/images/spaghetti_bolognese.jpg",
+        "recipe_id": "102",
+        "recipe_name": "Spaghetti Bolognese",
+        "short_description": "Classic Italian pasta dish with a rich meat sauce.",
+        "ingredients": [
+          "500 g minced beef",
+          "1 onion",
+          "2 garlic cloves",
+          "400 g spaghetti",
+          "700 ml tomato sauce"
+        ],
+        "preparing_time": "45 min",
+        "calories": "450 calories"
+      },
+      {
+        "recipe_image": "https://example.com/images/vegan_curry.jpg",
+        "recipe_id": "103",
+        "recipe_name": "Vegan Coconut Curry",
+        "short_description": "A creamy vegan curry packed with vegetables.",
+        "ingredients": [
+          "300 g chickpeas",
+          "200 g sweet potatoes",
+          "1 can coconut milk",
+          "100 g spinach",
+          "50 g curry paste"
+        ],
+        "preparing_time": "40 min",
+        "calories": "280 calories"
+      },
+      {
+        "recipe_image": "https://example.com/images/salmon_teriyaki.jpg",
+        "recipe_id": "104",
+        "recipe_name": "Salmon Teriyaki",
+        "short_description": "Grilled salmon glazed with a sweet teriyaki sauce.",
+        "ingredients": [
+          "4 salmon fillets",
+          "120 ml teriyaki sauce",
+          "2 tbsp honey",
+          "1 tbsp sesame seeds",
+          "100 g broccoli"
+        ],
+        "preparing_time": "25 min",
+        "calories": "350 calories"
+      },
+      {
+        "recipe_image": "https://example.com/images/pancakes.jpg",
+        "recipe_id": "105",
+        "recipe_name": "Fluffy Pancakes",
+        "short_description": "Soft and fluffy pancakes perfect for breakfast.",
+        "ingredients": [
+          "200 g flour",
+          "2 eggs",
+          "300 ml milk",
+          "50 g sugar",
+          "1 tsp baking powder"
+        ],
+        "preparing_time": "20 min",
+        "calories": "290 calories"
+      },
+      {
+        "recipe_image": "https://example.com/images/greek_salad.jpg",
+        "recipe_id": "106",
+        "recipe_name": "Greek Salad",
+        "short_description": "A refreshing salad with cucumbers, tomatoes, and feta cheese.",
+        "ingredients": [
+          "2 cucumbers",
+          "3 tomatoes",
+          "150 g feta cheese",
+          "50 g olives",
+          "2 tbsp olive oil"
+        ],
+        "preparing_time": "15 min",
+        "calories": "220 calories"
+      }
+    ]
+  }
+  

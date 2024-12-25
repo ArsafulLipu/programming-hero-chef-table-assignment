@@ -1,0 +1,22 @@
+.banner-main-div{
+    width: 1140px;
+    height: 500px;
+    background-image: url("../../assets/images/Rectangle 1.png");
+    border: 5px;
+    border-radius: 40px;
+}
+.button-explor{
+    border: 1px solid black;
+    border-radius: 40px;
+    font-size: 20px;
+    padding: 5px;
+    background-color: #0BE58A;
+    margin-right: 20px;
+}
+.button-oxford{
+    border: 1px solid white;
+    border-radius: 40px;
+    font-size: 20px;
+    padding: 5px;
+    color: white;
+}
